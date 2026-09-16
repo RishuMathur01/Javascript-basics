@@ -1,7 +1,7 @@
 1. Arrays — highest priority
 
 ## -> Find the largest and smallest element in an array.
-Find the second largest element.
+<!-- Find the second largest element. -->
 Remove duplicates from an array.
 Find duplicate elements in an array.
 Find the missing number from 1...N.
